@@ -1,0 +1,2 @@
+Remove Pin=P9-2 From Net=SWDIO
+Remove Pin=P9-10 From Net=REST

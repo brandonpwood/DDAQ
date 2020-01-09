@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Added Pin To Net: NetName=3.3V Pin=C15-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=DDAQ Member=Component C7 10uF
+Added Member To Class: ClassName=DDAQ Member=Component C8 1uF
+Added Member To Class: ClassName=DDAQ Member=Component C9 .1uf
+Added Member To Class: ClassName=DDAQ Member=Component C13 1uF
+Added Room: Name=DDAQ

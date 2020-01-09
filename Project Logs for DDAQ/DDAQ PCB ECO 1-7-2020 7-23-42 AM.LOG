@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=+5V Pin=R8-2
+Added Pin To Net: NetName=+5V Pin=R10-2
+Added Pin To Net: NetName=+5V Pin=R26-2
+Added Pin To Net: NetName=+5V Pin=R29-2
+Added Pin To Net: NetName=+5V Pin=R48-2
+Added Pin To Net: NetName=+5V Pin=R49-2
+Added Pin To Net: NetName=+5V Pin=R68-2
+Added Pin To Net: NetName=+5V Pin=R69-2
+Added Room: Name=DDAQ
